@@ -39,3 +39,5 @@
 
 # debug information files
 *.dwo
+/.vs/Inventory/FileContentIndex/d76a67f2-c468-4dc8-981f-5c13480dbc30.vsidx
+/.vs/Inventory/v17
